@@ -1,10 +1,6 @@
 # DLCV Final Project ( Food-classification-Challenge )
 
 # How to run your code?
-``` bash
-git clone https://github.com/DLCV-Fall-2021/final-project-challenge-3-pikachuckle.git
-cd final-project-challenge-3-pikachuckle
-```
 Please put the dataset in path ```../```, and the dataset should be the format:
 ``` bash
 dataset/
