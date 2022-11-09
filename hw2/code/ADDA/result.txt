@@ -1,0 +1,8 @@
+svhn -> mnistm
+acc : 50.76%
+
+usps -> svhn
+acc : 30.01%
+
+mnistm -> usps
+acc : 89.89%
